@@ -11,9 +11,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/samuel-rioja/">LinkedIn</a> ·
-  <a href="mailto:samuel.rioja@trufi-association.org">Email</a> ·
-  <a href="https://simpledisplay.app">simpledisplay.app</a> ·
-  <a href="https://remotedisplay.app">remotedisplay.app</a>
+  <a href="mailto:samuel.rioja@trufi-association.org">Email</a>
 </p>
 
 ---
