@@ -7,7 +7,8 @@
 
 <p align="center">
   I build all kinds of software: mobility apps for cities with informal transit, native Mac tools, backends and whatever a problem needs.<br>
-  I love research and turning ideas into proofs of concept.
+  I love research and turning ideas into proofs of concept.<br>
+  These days I build much more, and faster, with AI as a daily multiplier.
 </p>
 
 <p align="center">
