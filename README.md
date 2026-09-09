@@ -32,21 +32,7 @@ It started in 2016 with **Guía Cochala**, an app to find your way through Cocha
 - **[trufi-core](https://github.com/trufi-association/trufi-core)** — the Flutter framework behind every Trufi app. Co-maintainer and author of 17 of its releases.
 - **[trufi-gtfs-builder](https://github.com/trufi-association/trufi-gtfs-builder)** — turns OpenStreetMap route relations into GTFS feeds. Author and maintainer.
 - **[trufi-app](https://github.com/trufi-association/trufi-app)** — the Trufi app for my home city, Cochabamba.
-- **[stadtnavi](https://github.com/stadtnavi/stadtnavi_app)** — networked-mobility app for Herrenberg, Germany, built on trufi-core. Lead app contributor.
 - **Backend and operations** — OpenTripPlanner, Photon, vector tile servers and deployment runbooks for Trufi cities in Latin America, Africa and Europe.
-
-## 💼 Where I've worked
-
-- **Nexion S.R.L.** — Solution Architect & CTO (2023 – present). Software Developer (2019 – 2021).
-- **QUIBIQ Hamburg GmbH** — Software Developer, Hamburg, Germany (2022). Integration and OCR/document-processing solutions on .NET and Azure.
-- **Trufi Association e.V.** — Lead Developer (2018 – present).
-- **Guía Cochala** — Freelance Software Developer (2016 – 2017).
-
-## 🧰 Stack
-
-`Dart / Flutter` · `Rust` · `Swift` · `C# / .NET` · `TypeScript / React` · `Azure` · `Docker` · `OpenStreetMap` · `GTFS` · `OpenTripPlanner`
-
-I care about clean architecture and code that stays readable a year later.
 
 ## 🤝 Let's talk
 
