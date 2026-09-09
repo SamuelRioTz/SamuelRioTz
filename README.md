@@ -6,7 +6,8 @@
 </p>
 
 <p align="center">
-  I build mobility software for cities with informal transit, and native tools for the Mac.
+  I build all kinds of software: mobility apps for cities with informal transit, native Mac tools, backends and whatever a problem needs.<br>
+  I love research and turning ideas into proofs of concept.
 </p>
 
 <p align="center">
